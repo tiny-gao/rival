@@ -31,6 +31,7 @@ import org.apache.commons.math3.stat.descriptive.SummaryStatistics;
  *
  * @author <a href="http://github.com/abellogin">Alejandro</a>
  */
+//置信区间
 public class ConfidenceInterval {
 
     /**
