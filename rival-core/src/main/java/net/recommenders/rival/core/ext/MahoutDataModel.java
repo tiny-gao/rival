@@ -32,6 +32,7 @@ import org.apache.mahout.cf.taste.model.PreferenceArray;
  *
  * @author <a href="http://github.com/abellogin">Alejandro</a>
  */
+//mahout的数据模型与TemporalDataModelIF相转换
 public class MahoutDataModel implements TemporalDataModelIF<Long, Long> {
 
     private GenericDataModel model;
